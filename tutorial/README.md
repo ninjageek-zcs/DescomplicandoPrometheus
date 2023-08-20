@@ -58,8 +58,8 @@ COMO INSTALAR O PROMETHEUS
      systemctl start prometheus
      systemctl enable prometheus
 
- 11 - Validar funcionamento
+ 11 - Validar o funcionamento
            
      systemctl status prometheus
-     curl localhost:9090 ou acessar http://localhost:9090
+     curl localhost:9090/metrics ou acessar http://localhost:9090
              
