@@ -1,9 +1,9 @@
 COMO INSTALAR O PROMETHEUS
 
- 1 - Acessar o site de downloas do prometheus:
+ 1 - Acessar o site de downloas do prometheus e copiar link do mesmo:
         
      https://prometheus.io/download/
-     Copiar o link para o endereço da versão do prometheus desejda (de preferência a última versão);
+     Copiar o link para o endereço da versão do prometheus desejada (de preferência a última versão);
  
  2 - Obter o prometheus referido via curl:
 
